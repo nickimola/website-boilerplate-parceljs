@@ -1,3 +1,12 @@
-/*
-    Navigate to https://tomitm.github.io/appmanifest/ to generate your manifest file. Once generated, copy it in here.
-*/
+{
+	"name": "",
+	"short_name": "",
+	"theme_color": "",
+	"background_color": "",
+	"display": "standalone",
+	"orientation": "portrait",
+	"Scope": "/",
+	"start_url": "/index.html",
+	"icons": [],
+	"splash_pages": null
+}
